@@ -1,0 +1,290 @@
+# SIGNS FILE - Customize the formatting of the signs, and also the storage for the locations of the signs.
+Signs:
+  Kit:
+    Line-1: '&7[&b&lKIT&7]'
+    Line-2: '&6Click to select'
+    Line-3: '&c%kit% &6kit'
+    Line-4: ' '
+  Clear:
+    Line-1: '&7[&b&lCLEAR-KIT&7]'
+    Line-2: '&eClick to &cclear'
+    Line-3: '&eyour current kit'
+    Line-4: ' '
+  Menu:
+    Line-1: '&7[&b&lPvP-MENU&7]'
+    Line-2: '&dClick to &9open'
+    Line-3: '&dthe kit selector'
+    Line-4: ' '
+  Stats:
+    Line-1: '&7[&b&lPvP-STATS&7]'
+    Line-2: '&aClick to view'
+    Line-3: '&ayour stats'
+    Line-4: ' '
+  Refill:
+    Line-1: '&7[&b&lREFILL-KIT&7]'
+    Line-2: '&cClick to refill'
+    Line-3: '&cyour soups'
+    Line-4: ' '
+  Locations:
+    '1':
+      Type: Clear
+      World: pvp
+      X: 9
+      Y: 73
+      Z: -2
+    '2':
+      Type: Menu
+      World: pvp
+      X: 9
+      Y: 73
+      Z: -2
+    '3':
+      Type: Stats
+      World: pvp
+      X: 9
+      Y: 73
+      Z: -1
+    '4':
+      Type: Clear
+      World: pvp
+      X: 9
+      Y: 73
+      Z: 0
+    '5':
+      Type: Refill
+      World: pvp
+      X: 9
+      Y: 73
+      Z: 1
+    '6':
+      Type: Kit
+      Kit: Archer
+      World: pvp
+      X: -9
+      Y: 74
+      Z: 3
+    '7':
+      Type: Kit
+      Kit: Fighter
+      World: pvp
+      X: -9
+      Y: 74
+      Z: 2
+    '8':
+      Type: Kit
+      Kit: Bomber
+      World: pvp
+      X: -9
+      Y: 74
+      Z: 1
+    '9':
+      Type: Kit
+      Kit: Soldier
+      World: pvp
+      X: -9
+      Y: 74
+      Z: 0
+    '10':
+      Type: Kit
+      Kit: Kangaroo
+      World: pvp
+      X: -9
+      Y: 74
+      Z: -1
+    '11':
+      Type: Kit
+      Kit: Rhino
+      World: pvp
+      X: -9
+      Y: 74
+      Z: -2
+    '12':
+      Type: Menu
+      World: pvp
+      X: 9
+      Y: 73
+      Z: 2
+    '13':
+      Type: Kit
+      Kit: Ninja
+      World: pvp
+      X: -9
+      Y: 74
+      Z: -3
+    '14':
+      Type: Kit
+      Kit: Tank
+      World: pvp
+      X: -9
+      Y: 73
+      Z: 0
+    '15':
+      Type: Kit
+      Kit: Thunderbolt
+      World: pvp
+      X: -9
+      Y: 73
+      Z: 1
+    '16':
+      Type: Kit
+      Kit: Vampire
+      World: pvp
+      X: -9
+      Y: 73
+      Z: -1
+    '17':
+      Type: Kit
+      Kit: Warper
+      World: pvp
+      X: -9
+      Y: 73
+      Z: 2
+    '18':
+      Type: Kit
+      Kit: Witch
+      World: pvp
+      X: -9
+      Y: 73
+      Z: -2
+    '19':
+      Type: Kit
+      Kit: Archer
+      World: pvp
+      X: -9
+      Y: 72
+      Z: 2
+    '20':
+      Type: Kit
+      Kit: Warper
+      World: pvp
+      X: -9
+      Y: 73
+      Z: 2
+    '21':
+      Type: Kit
+      Kit: Archer
+      World: pvp
+      X: -9
+      Y: 74
+      Z: 3
+    '22':
+      Type: Kit
+      Kit: Warper
+      World: pvp
+      X: -9
+      Y: 73
+      Z: 2
+    '23':
+      Type: Kit
+      Kit: Archer
+      World: pvp
+      X: -9
+      Y: 74
+      Z: 3
+    '24':
+      Type: Kit
+      Kit: Fighter
+      World: pvp
+      X: -9
+      Y: 74
+      Z: 2
+    '25':
+      Type: Kit
+      Kit: Bomber
+      World: pvp
+      X: -9
+      Y: 74
+      Z: 1
+    '26':
+      Type: Kit
+      Kit: Soldier
+      World: pvp
+      X: -9
+      Y: 74
+      Z: 0
+    '27':
+      Type: Kit
+      Kit: Kangaroo
+      World: pvp
+      X: -9
+      Y: 74
+      Z: -1
+    '28':
+      Type: Kit
+      Kit: Ninja
+      World: pvp
+      X: -9
+      Y: 74
+      Z: -3
+    '29':
+      Type: Kit
+      Kit: Thunderbolt
+      World: pvp
+      X: -9
+      Y: 73
+      Z: 1
+    '30':
+      Type: Kit
+      Kit: ''
+      World: pvp
+      X: -9
+      Y: 73
+      Z: 0
+    '31':
+      Type: Kit
+      Kit: Vampire
+      World: pvp
+      X: -9
+      Y: 73
+      Z: -1
+    '32':
+      Type: Kit
+      Kit: Witch
+      World: pvp
+      X: -9
+      Y: 73
+      Z: -2
+    '33':
+      Type: Kit
+      Kit: Rhino
+      World: pvp
+      X: -9
+      Y: 74
+      Z: -2
+    '34':
+      Type: Kit
+      Kit: Tank
+      World: pvp
+      X: -9
+      Y: 73
+      Z: 0
+    '35':
+      Type: Clear
+      World: pvp
+      X: 9
+      Y: 73
+      Z: 0
+    '36':
+      Type: Stats
+      World: pvp
+      X: 9
+      Y: 73
+      Z: -1
+    '37':
+      Type: Menu
+      World: pvp
+      X: 9
+      Y: 73
+      Z: -2
+    '38':
+      Type: Refill
+      World: pvp
+      X: 9
+      Y: 73
+      Z: 1
+    '39':
+      Type: Menu
+      World: pvp
+      X: 9
+      Y: 73
+      Z: 2

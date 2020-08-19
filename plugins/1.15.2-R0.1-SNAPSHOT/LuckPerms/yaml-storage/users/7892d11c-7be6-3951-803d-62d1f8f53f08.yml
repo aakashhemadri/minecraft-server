@@ -1,0 +1,10 @@
+uuid: 7892d11c-7be6-3951-803d-62d1f8f53f08
+name: purplepant1es
+primary-group: default
+permissions:
+- essentials.*
+- luckperms.*
+- luckperms
+parents:
+- admin
+- default

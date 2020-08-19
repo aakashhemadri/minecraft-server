@@ -1,0 +1,28 @@
+lastAccountName: Obcisor
+timestamps:
+  login: 1584879824277
+  lastteleport: 1584879833750
+  logout: 1584880906200
+ipAddress: 37.170.10.175
+lastlocation:
+  world: sea_of_flame_II
+  x: 32.71026353094531
+  y: 66.0
+  z: 21.29913336753237
+  yaw: -334.05038
+  pitch: 24.45013
+homes:
+  home:
+    world: survival
+    x: 285.9352914023415
+    y: 114.0
+    z: 594.384465303786
+    yaw: 199.64685
+    pitch: 18.150076
+logoutlocation:
+  world: sea_of_flame_II
+  x: 99.63250714602623
+  y: 53.18035438684054
+  z: -14.312644150225417
+  yaw: 63.299652
+  pitch: 47.849983

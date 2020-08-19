@@ -1,0 +1,29 @@
+lastAccountName: unreal44
+timestamps:
+  login: 1587227455914
+  logout: 1587145147595
+  lastteleport: 1587228417751
+ipAddress: 103.66.79.87
+logoutlocation:
+  world: survival
+  x: -192.76541337876304
+  y: 77.0
+  z: 249.05509212843464
+  yaw: 314.09888
+  pitch: 86.24997
+lastlocation:
+  world: survival
+  x: 58.758720027035075
+  y: 71.0
+  z: 303.02996708811315
+  yaw: 154.34935
+  pitch: 8.399954
+afk: false
+homes:
+  home:
+    world: survival
+    x: -154.2488749910838
+    y: 63.0
+    z: -215.28189616941518
+    yaw: 100.04923
+    pitch: 42.450024

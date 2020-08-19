@@ -1,0 +1,12 @@
+name: peasant
+permissions:
+- displayname.peasant
+- weight.20
+parents:
+- default
+prefixes:
+- '&5[ &9Peasant &5] ':
+    priority: 20
+suffixes:
+- ' - &2give food pleaj.':
+    priority: 20

@@ -1,0 +1,28 @@
+lastAccountName: jellycandy
+timestamps:
+  login: 1585132847670
+  logout: 1585134185539
+  lastteleport: 1585132879518
+ipAddress: 49.205.150.240
+logoutlocation:
+  world: survival_3
+  x: 285.70647587764904
+  y: 63.0
+  z: -48.35301213285814
+  yaw: 174.86987
+  pitch: 1.7999874
+lastlocation:
+  world: survival_3
+  x: 285.70647587764904
+  y: 63.0
+  z: -48.35301213285814
+  yaw: 174.86987
+  pitch: 1.7999874
+homes:
+  home:
+    world: survival_3
+    x: 259.0734609103449
+    y: 70.0
+    z: -24.41168057035825
+    yaw: 353.82138
+    pitch: 32.69988

@@ -1,0 +1,41 @@
+name: default
+permissions:
+- hubbasics.menu.*
+- kp.ability.*
+- kp.kit.*
+- displayname.beggar
+- essentials.afk
+- essentials.afk.auto
+- essentials.back
+- essentials.clearinventory
+- essentials.delhome
+- essentials.home
+- essentials.msg
+- essentials.ping
+- essentials.rules
+- essentials.sethome
+- essentials.spawn-on-join
+- essentials.suicide
+- essentials.tpa
+- essentials.tpaccept
+- essentials.tpdeny
+- essentials.warp
+- hubbasics.items.menu
+- hubbasics.lobby
+- kp.arrowmessage
+- kp.arrowreturn
+- kp.command.clear
+- kp.command.kits
+- kp.command.preview
+- kp.command.spawn
+- kp.command.stats
+- kp.playertracker
+- kp.soupreturn
+- minecraft.command.say
+- weight.0
+prefixes:
+- '&5[ &aBeggar &5]&r ':
+    priority: 10
+suffixes:
+- ' - &cpleaj halp.':
+    priority: 10

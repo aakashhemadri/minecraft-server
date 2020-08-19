@@ -1,0 +1,4 @@
+# LuckPerms UUID lookup cache
+4867b4ca-6419-31bc-a254-740816f1f711:unreal44
+7892d11c-7be6-3951-803d-62d1f8f53f08:purplepant1es
+205b0587-9ef1-3e1c-80ec-1aa299161ea4:mobius1

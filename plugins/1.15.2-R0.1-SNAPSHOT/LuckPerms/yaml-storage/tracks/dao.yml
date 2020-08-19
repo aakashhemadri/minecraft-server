@@ -1,0 +1,6 @@
+name: dao
+groups:
+- default
+- peasant
+- overlord
+- immortal

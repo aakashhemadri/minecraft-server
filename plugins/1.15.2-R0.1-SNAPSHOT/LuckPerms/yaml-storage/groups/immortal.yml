@@ -1,0 +1,23 @@
+name: immortal
+permissions:
+- bukkit.*
+- hubbasics.*
+- kp.*
+- luckperms.*
+- minecraft.*
+- protocol.*
+- serverlistplus.*
+- worldguard.*
+- craftbukkit
+- displayname.immortal
+- weight.40
+- worldguard
+parents:
+- default
+- overlord
+prefixes:
+- '&5[ &6Immortal &5]&r ':
+    priority: 40
+suffixes:
+- ' - &dthe god above.':
+    priority: 40

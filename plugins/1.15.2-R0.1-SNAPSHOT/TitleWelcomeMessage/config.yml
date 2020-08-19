@@ -1,0 +1,72 @@
+#######################
+# TitleWelcomeMessage #
+#   by: MrIvanPlays   #
+#######################
+
+# All color codes are supported
+# You can mark the player on the subtitle and title with: %player%
+
+enable-title: true # Enable/disable the title welcome message
+title-message: "&aWelcome &e%player% &ato &bMESA" # PlayerUtil Welcome Message
+subtitle-message: "&bEnjoy your stay!" # Subtitle Welcome Message
+noperm-message: "&cERROR: You dont have permission to perform this command!" # No permission message
+sucess-title-send: "&aTitle was sent successfully!" # PlayerUtil sent successfully
+usage: "&cUsage: /titlesend <title>" # Usage of command "/titlesend"
+update-checking: true # Will be proceeded update-checking or not??
+
+# First join
+enable-title-firstjoin: true
+firstjoin-title: "&aWelcome &e%player% &ato the &bMESA"
+firstjoin-subtitle: "&bEnjoy your stay!"
+
+###########
+# TABLIST #
+###########
+
+# ATablist's enable/disable things
+tablist:
+  # If you want tablist
+  enable: true
+
+# Tab header and footer. Here are the placeholders
+# - %online% to get online players, %max% to get the server's max slots
+# - %date% to get the date WARNING! THE DATE IS THE SERVER'S HOST MACHINE DATE
+# - %player% to get the player's name
+# For the next placeholders is required Vault
+# - %group% to get the player's group
+# - %prefix% to get the player's group prefix
+# - %suffix% to get the player's group suffix
+
+# Update time (in ticks)
+tablist-update: 20
+
+tab-header:
+- "&aYourServerName \n &2Player: &e%player% \n &aGroup: &f%group% &6Prefix: %prefix% \n"
+- "&bYourServerName \n &3Player: &f%player% \n &bGroup: &f%group% &7Prefix: %prefix% \n"
+- "&cYourServerName \n &4Player: &d%player% \n &cGroup: &f%group% &8Prefix: %prefix% \n"
+tab-footer:
+- "\n &bDate: &e%date% &7\n &9Online: &a%online% &7/ &9Max: &c%max%"
+- "\n &cDate: &f%date% &7\n &8Online: &b%online% &7/ &8Max: &b%max%"
+- "\n &dDate: &b%date% &7\n &7Online: &c%online% &7/ &7Max: &a%max%"
+
+# Enable the tablist prefix
+enable-tab-prefix: true
+
+# Should plugin get the rank's prefixes/suffixes or no (if no the plugin uses the custom-prefixes)
+get-rank-prefixes: true
+
+# This is the default prefix/suffix for players who arent ranked
+default-prefixes:
+  prefix: "&fLost "
+  suffix: ""
+
+# These are the custom prefixes. The groups are taken from the permissions plugin.
+custom-prefixes:
+  admin:
+    prefix: "&4&lADMIN &7>> &f"
+    suffix: " &cAdmin"
+  default:
+    prefix: "&7Member &f"
+    suffix: ""
+
+# End of the configuration file

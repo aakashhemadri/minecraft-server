@@ -1,0 +1,22 @@
+lastAccountName: mobius1
+timestamps:
+  login: 1592752882053
+  logout: 1592753030099
+  lastteleport: 1587470588184
+ipAddress: 49.207.141.52
+logoutlocation:
+  world: survival
+  x: -162.0498267815436
+  y: 63.0
+  z: -218.25559474051846
+  yaw: -192.4898
+  pitch: 5.171984
+lastlocation:
+  world: survival
+  x: -164.95558840562558
+  y: 63.0
+  z: -210.657475465618
+  yaw: -253.28876
+  pitch: 19.051508
+nickname: §cdick
+afk: false

@@ -1,0 +1,17 @@
+name: overlord
+permissions:
+- essentials.*
+- lagg.*
+- multiverse.*
+- worldedit.*
+- displayname.overlord
+- weight.30
+parents:
+- default
+- peasant
+prefixes:
+- '&5[ &bOverlord &5] ':
+    priority: 30
+suffixes:
+- ' - &eKneel before me.':
+    priority: 30
